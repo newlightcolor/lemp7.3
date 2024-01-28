@@ -1,12 +1,13 @@
 # name
-LEMP-8.1
+LEMP-7.3
 
 ## Overview
-LEMP環境。PHPバージョン=8.1
+LEMP環境。PHPバージョン=7.3
 
 ## Version
 - wsl2 -d ubuntu-22.04
 - Docker version 20.10.21, build baeda1f
+- mysql = 8.0
 
 ## Usage
 ###### How to Add Application
